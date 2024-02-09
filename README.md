@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I am  Vishal J Bind</h1>
 <h3 align="center">"Embarking on the Data Science Journey"</h3>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/D4D03AQFncDIegA7CWw/profile-displayphoto-shrink_800_800/0/1705484664061?e=2147483647&v=beta&t=7YcEWm5Wamq-T_OYX-reSC0dxg1Q6OHZDlj5-OaKMvs" alt="Vishalbind" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Vishalbind" /> </p>
 
 <h2> About Me </h2>
 
