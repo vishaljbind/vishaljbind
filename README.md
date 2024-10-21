@@ -1,14 +1,18 @@
-![197391947-44073cab-ffa1-4f6f-b0e9-a541afc7254a](https://user-images.githubusercontent.com/88282209/219847233-29bf097e-a376-4da1-92a2-dc0412ab170e.gif)
+<p align="center">
+  <img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="Web Development Company in Kochi">
+</p>
+
+
 <h1 align="center">Hi 👋 I am  Vishal J Bind</h1>
-<h3 align="center">"Embarking on the Data Science Journey"</h3>
+<h3 align="center">"Embarking on the Full Stack Journey"</h3>
 
 
 
 <h2> About Me </h2>
 
-- 🔭 I’m interested in **Deep Diving into AI and NLP for a smarter tomorrow**
-- 🌱 I’m currently learning **Machine learning**
-- 🎯 I’m looking forward to work as a **Data Scientist** in future
+- 🔭 I’m interested in **Deep Diving into MERN and MEAN for a smarter tomorrow**
+- 🌱 I’m currently learning **Web Development**
+- 🎯 I’m looking forward to work as a **Software Engineer** in future
 
 <h2> Connect With Me </h2>
 
